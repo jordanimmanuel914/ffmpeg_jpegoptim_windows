@@ -1,0 +1,3 @@
+[submodule "jpegoptim-prj/src/jpegoptim"]
+	path = jpegoptim-prj/src/jpegoptim
+	url = https://github.com/tjko/jpegoptim.git
